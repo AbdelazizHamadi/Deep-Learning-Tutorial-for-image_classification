@@ -2,8 +2,13 @@
 
  Deep Learning Pipeline from start to finish
 
- ## Project Description
-In this Project I want to give a clear view of the How Deep Learning works from collecting Dataset to get actual results and predictions
+ ## Tutorial Description
+In this Tutorial I want to give a clear view of the How Deep Learning works from collecting Dataset to get actual results and predictions, in this example we create a Deep Learning Based algorithm that can recognize two movies
+
+Ernest Celestine Movie            |  Toy Story 3 Movie
+:-------------------------:|:-------------------------:
+![](Dataset(example)/0/ernest-celestine-00147.png)  |  ![](Dataset(example)/1/toy-story-3-00062.png)
+
 
 ## Steps
 ### Step 1
